@@ -1,0 +1,3 @@
+[submodule "responsive-clock"]
+	path = responsive-clock
+	url = https://github.com/BenHanson747/responsive-clock
